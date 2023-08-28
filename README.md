@@ -34,7 +34,5 @@
 
 
 
-
-![snake gif](https://github.com/reeyhanyilmaz/reeyhanyilmaz/blob/output/github-contribution-grid-snake.gif)
 <br>
-![DeveloperArchitect's github stats](https://github-readme-stats.vercel.app/api?username=DeveloperArchitect&show_icons=true&theme=default)
+![CanBasmaci's github stats](https://github-readme-stats.vercel.app/api?username=CanBasmaci&show_icons=true&theme=default)
