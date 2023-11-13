@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C# and .Net**
 
-- 💬 Ask me about **HTML%CSS, Next.js and Pytgon**
+- 💬 Ask me about **HTML & CSS, Next.js and Python**
 
 - 📫 How to reach me **cnbsmc@outlook.com**
 
@@ -16,6 +16,7 @@
 <a href="https://www.twitter.com/cb25dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cb25png" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/developerarchitect/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="developerarchitect" height="30" width="40" /></a>
 <a href="https://www.instagram.com/icandeveloper/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="Instagram" height="30" width="40" /></a>
+ <a href="https://www.instagram.com/cb25.dev/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="Instagram" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages:</h3>
