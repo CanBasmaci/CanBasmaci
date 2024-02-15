@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Can</h1>
+<h1 align="center">Hi, I'm Can Basmacı</h1>
 <h3 align="center">Full time developer, part time traveller</h3>
 
-- I am currently working at a company called **Code and More.**
+- I am currently working at **Code and More.**
 
 - I’m currently learning **C# and .Net**
 
