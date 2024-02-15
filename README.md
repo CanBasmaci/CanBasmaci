@@ -3,7 +3,7 @@
 
 - I am currently working at a company called **Code and More.**
 
-- 🌱 I’m currently learning **C# and .Net**
+- I’m currently learning **C# and .Net**
 
 - How to reach me **cnbsmc@outlook.com**
 
